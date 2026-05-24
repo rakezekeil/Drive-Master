@@ -1,0 +1,18 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-05-24",
+  "download_url": "https://github.com/rakezekeil/Drive-Master/releases/download/v.1.0.1/Drive.Master.Pro.exe",
+  "changelog": [
+    "ជួសជុលកំហុស (Bugs) ពេលបើកកម្មវិធី",
+    "មុខងារ Windows Activation",
+    "កំណែរកម្មវិធីថ្មីៗ និងការកែលម្អប្រសើរឡើង"
+  ],
+  "restrictions": {
+    "8D565185354486503676A2641C846C6FE4B73DFB0C32664705654F2A48B0B8E7": {
+      "features": [],
+      "expiry": "Lifetime"
+    }
+  },
+  "trial_resets": [],
+  "blacklist": []
+}
